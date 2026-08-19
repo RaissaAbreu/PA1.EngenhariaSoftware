@@ -25,7 +25,7 @@ O trabalho tem como objetivos:
 ## Estrutura do projeto
 
 ```text
-es1-pratica-avaliada-1/
+PA1.EngenhariaSoftware/
 ├── .gitignore
 ├── README.md
 ├── analise-processo.md
@@ -48,7 +48,7 @@ es1-pratica-avaliada-1/
 
 ## Contexto da atividade
 
-A **AgileTech Solutions** possui uma equipe pequena, formada por cinco desenvolvedores e um Product Owner. O cliente participa do projeto, mas possui disponibilidade limitada. Os requisitos iniciais são vagos e sujeitos a mudanças frequentes, existe pressão por entregas rápidas e a empresa possui histórico de documentação extensa que rapidamente ficava desatualizada.
+A AgileTech Solutions possui uma equipe pequena, formada por cinco desenvolvedores e um Product Owner. O cliente participa do projeto, mas possui disponibilidade limitada. Os requisitos iniciais são vagos e sujeitos a mudanças frequentes, existe pressão por entregas rápidas e a empresa possui histórico de documentação extensa que rapidamente ficava desatualizada.
 
 Nesse cenário, a atividade propõe uma abordagem ágil, combinando práticas de XP e Scrum e aplicando Design Simples ao desenvolvimento do código.
 
@@ -83,7 +83,13 @@ São contemplados:
 
 A documentação está em [`processo-xp-scrum.md`](processo-xp-scrum.md).
 
-> **GitHub Projects:** o link para o quadro será incluído em `processo-xp-scrum.md` após a criação e configuração do projeto no GitHub.
+### GitHub Projects
+
+O quadro Kanban criado para a atividade está disponível em:
+
+[PA1.EngSoftware.RaissaRangel — GitHub Projects](https://github.com/users/RaissaAbreu/projects/3/views/1)
+
+O quadro contém as etapas **Backlog, Ready, In progress, In review e Done**, além das user stories e tarefas utilizadas para representar o fluxo de trabalho.
 
 ## Questão 3 — Design Simples e YAGNI
 
@@ -108,8 +114,6 @@ A análise está em [`analise-yagni.md`](analise-yagni.md) e a implementação e
 - **Git/GitHub** — versionamento;
 - **GitHub Projects** — organização do fluxo de trabalho.
 
-As dependências estão descritas em [`requirements.txt`](requirements.txt).
-
 ## Execução
 
 Após clonar o repositório, entre no diretório do projeto e execute:
@@ -124,7 +128,7 @@ A implementação deve disponibilizar as funcionalidades básicas solicitadas: c
 
 O desenvolvimento segue a proposta da atividade, buscando aplicar princípios ágeis e manter o código simples, objetivo e alinhado aos requisitos atuais.
 
-O GitHub Projects será utilizado para representar o fluxo de trabalho da equipe e organizar as user stories e tarefas relacionadas ao desenvolvimento.
+O GitHub Projects é utilizado para representar o fluxo de trabalho da equipe e organizar as user stories e tarefas relacionadas ao desenvolvimento.
 
 ## Referência
 
